@@ -223,11 +223,11 @@ function startTest() {
 
 function insertAd() {
   const adHTML = `
-    <div class="silkworld-ad mt-3">
-      <a href="https://smartstore.naver.com/silkworld" target="_blank">
-        <img src="silkworld-ad.png" alt="Silkworld - 네이버 스마트스토어">
-      </a>
-    </div>`;
+  <div class="Agendabook-ad mt-5">
+    <a href="https://smartstore.naver.com/agenmall" target="_blank">
+        <img src="Agendabook-ad2.png" alt="Axenmall - 네이버 스마트스토어">
+    </a>
+  </div>`;
   return adHTML;
 }
 
